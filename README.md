@@ -21,13 +21,13 @@ key business areas through 6 interactive dashboards with full data modelling, DA
 ## Key Business Insights Found
 
 - Revenue declining from €48K to €7K 
-  (2024 to 2026) — needs urgent attention
+  (2024 to 2026) - needs urgent attention
 - €15,810 lost to theft across 400 incidents
 - Only 21% customer repeat rate 
-  — retention strategy needed
+  - retention strategy needed
 - 23 products need urgent reordering
 - Inventory turnover of 0.33 
-  — stock moving too slowly
+  - stock moving too slowly
 - Fruits is highest theft risk category
 
 
